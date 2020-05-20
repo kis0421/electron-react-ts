@@ -1,0 +1,12 @@
+{
+  "extends": "./node_modules/electron-webpack/tsconfig-base.json",
+  "compilerOptions": {
+    "downlevelIteration": true,
+    "lib": [
+      "esnext",
+      "dom"
+    ],
+    "jsx": "react",
+    "emitDecoratorMetadata": true,
+  }
+}
