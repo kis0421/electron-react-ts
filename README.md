@@ -1,5 +1,5 @@
-# electron-webpack-quick-start
-> A bare minimum project structure to get started developing with [`electron-webpack`](https://github.com/electron-userland/electron-webpack).
+# electron-react-typescript quick-start
+
 
 Thanks to the power of `electron-webpack` this template comes packed with...
 
